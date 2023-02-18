@@ -15,7 +15,9 @@ public class Sort {
         list.add("$40");
         list.add("$200");
         list.add("$10");
-        list.add("$30");
+
+        list.add("$2000");
+
 
         System.out.println(list);
 
